@@ -35,7 +35,7 @@ public class Main
 		});
 
 		for (int j  = 0; j < m; ++j) {
-            System.out.print(list[j][0]);
+			System.out.print(list[j][0]);
 			System.out.print(" ");
         }
 	}
